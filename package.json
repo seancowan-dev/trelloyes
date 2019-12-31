@@ -36,6 +36,7 @@
   },
   "homepage": "https://seancowan-dev.github.io/trelloyes/",
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1",
+    "react-test-renderer": "^16.12.0"
   }
 }
